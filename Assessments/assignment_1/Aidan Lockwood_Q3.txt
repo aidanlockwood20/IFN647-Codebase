@@ -1,0 +1,27 @@
+Average Document Length for this collection is: 354
+The query is: US EPA ranks Geo Metro car most fuel-efficient 1997 car
+
+
+Document ID: 741299, Doc Length: 191 -- BM25 Score: 4.429867009061239
+Document ID: 780723, Doc Length: 152 -- BM25 Score: 0
+Document ID: 741309, Doc Length: 140 -- BM25 Score: 0
+Document ID: 86961, Doc Length: 411 -- BM25 Score: 8.399000620758073
+Document ID: 780718, Doc Length: 114 -- BM25 Score: 0
+Document ID: 783803, Doc Length: 481 -- BM25 Score: 3.9487876362932535
+Document ID: 80483, Doc Length: 591 -- BM25 Score: 3.89495946842028
+Document ID: 809481, Doc Length: 148 -- BM25 Score: 0
+Document ID: 809495, Doc Length: 679 -- BM25 Score: 0
+Document ID: 80484, Doc Length: 591 -- BM25 Score: 3.89495946842028
+Document ID: 783802, Doc Length: 122 -- BM25 Score: 0
+Document ID: 807600, Doc Length: 516 -- BM25 Score: 0
+Document ID: 80884, Doc Length: 591 -- BM25 Score: 3.89495946842028
+Document ID: 86042, Doc Length: 411 -- BM25 Score: 8.399000620758073
+Document ID: 807606, Doc Length: 175 -- BM25 Score: 0
+
+
+For Query "US EPA ranks Geo Metro car most fuel-efficient 1997 car", the top-5 relevant documents are:
+Document ID: 86961, BM25 Score: 8.399000620758073
+Document ID: 86042, BM25 Score: 8.399000620758073
+Document ID: 741299, BM25 Score: 4.429867009061239
+Document ID: 783803, BM25 Score: 3.9487876362932535
+Document ID: 80483, BM25 Score: 3.89495946842028
