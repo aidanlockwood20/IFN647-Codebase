@@ -1,0 +1,2 @@
+The parsed query: 
+{'epa': 1, 'rank': 1, 'geo': 1, 'metro': 1, 'car': 2, 'fuel': 1, 'effici': 1}
